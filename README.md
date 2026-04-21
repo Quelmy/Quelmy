@@ -98,7 +98,7 @@ Sou Desenvolvedor Full Stack com experiência prática em **aplicações corpora
 <div align="center">
   <img 
   height="170" 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Quelmy&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&include_all_commits=true" 
+  src="https://github-readme-stats.vercel.app/api?username=Quelmy&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true" 
 />
   <img 
     height="170" 
