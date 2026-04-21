@@ -1,36 +1,35 @@
 <p align="center">
-  <img src="https://github.com/SEU_USERNAME/SEU_USERNAME/blob/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/Quelmy/Quelmy/main/banner.png" />
 </p>
 
 <h1 align="left">👋 Hi, I'm Riquelmy</h1>
 
 <p align="left">
-  <strong>Full Stack Developer & Data Engineer</strong>  
-  <br/>
-  .NET • C# • React • Node.js • TypeScript • Python • FastAPI • AWS • SQL
+  <strong>Full Stack Developer | Data Engineering (AWS, Python, FastAPI)</strong><br/>
+  .NET • C# • React • Node.js • TypeScript • SQL Server • PostgreSQL
 </p>
 
 ---
 
 ## 💻 About me
 
-Sou Desenvolvedor Full Stack com experiência prática no desenvolvimento de **aplicações corporativas** e também atuando como **Engenheiro de Dados (voluntário)**.
+Sou Desenvolvedor Full Stack com experiência prática em **aplicações corporativas** e também atuando como **Engenheiro de Dados (voluntário)**.
 
 ### 🔹 Desenvolvimento
 - ⚙️ Backend com **.NET, C# e Node.js**
-- 🧠 APIs com **NestJS + FastAPI**
+- 🧠 APIs com **NestJS e FastAPI**
 - 🎨 Frontend com **React, Bootstrap e Telerik**
 
 ### 🔹 Data & Cloud
 - ☁️ Experiência com **AWS (infraestrutura e organização de serviços)**
 - 🐍 Processamento de dados com **Python**
-- 🔗 Criação de APIs e pipelines com **FastAPI**
+- 🔗 Construção de APIs e pipelines com **FastAPI**
 - 🗄️ Bancos: **SQL Server, PostgreSQL, MySQL**
 
 📌 Foco em:
 - Escalabilidade  
 - Arquitetura limpa  
-- Boas práticas  
+- Boas práticas de código  
 
 🚀 Buscando oportunidade de **estágio ou crescimento na área de tecnologia**
 
@@ -69,15 +68,17 @@ Sou Desenvolvedor Full Stack com experiência prática no desenvolvimento de **a
 ### Data & Cloud
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35"/>
-<img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35"/>
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35"/>
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="35"/>
 
 <br/><br/>
 
 ### Database
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35"/>
+<img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
@@ -103,10 +104,10 @@ Sou Desenvolvedor Full Stack com experiência prática no desenvolvimento de **a
 
 ---
 
-## 🚀 Destaque
+## 🚀 Highlights
 
 - 💼 Experiência prática com projetos reais  
-- ☁️ Experiência com AWS (ambiente cloud)  
+- ☁️ Experiência com AWS (cloud)  
 - 🧠 Atuação como Data Engineer (voluntário)  
 - 📚 Evolução constante na área  
 
@@ -115,7 +116,7 @@ Sou Desenvolvedor Full Stack com experiência prática no desenvolvimento de **a
 ## 📫 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/SEU_LINK">
+  <a href="https://www.linkedin.com/in/SEU_LINK">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
