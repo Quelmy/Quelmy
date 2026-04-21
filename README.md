@@ -97,9 +97,9 @@ Sou Desenvolvedor Full Stack com experiência prática em **aplicações corpora
 
 <div align="center">
   <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=Quelmy&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&include_all_commits=true&locale=pt-br" 
-  />
+  height="170" 
+  src="https://streak-stats.demolab.com?user=Quelmy&theme=tokyonight&hide_border=true" 
+/>
   <img 
     height="170" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Quelmy&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true" 
