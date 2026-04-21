@@ -5,6 +5,10 @@
 <h1 align="left">👋 Hi, I'm Riquelmy</h1>
 
 <p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&width=600&lines=Full+Stack+Developer;Data+Engineering+with+AWS;Backend+Specialist;Always+learning+new+technologies" />
+</p>
+
+<p align="left">
   <strong>Full Stack Developer | Data Engineering (AWS, Python, FastAPI)</strong><br/>
   .NET • C# • React • Node.js • TypeScript • SQL Server • PostgreSQL
 </p>
@@ -101,6 +105,14 @@ Sou Desenvolvedor Full Stack com experiência prática em **aplicações corpora
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Quelmy&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true" 
   />
 </div>
+
+---
+
+## 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Quelmy/Quelmy/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
